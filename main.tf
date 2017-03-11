@@ -27,7 +27,7 @@ variable "versioning" {
 variable "aws_s3_prefix" {
   type = "string"
   description = "Used to help finding remote state bucket"
-  default = "straycat-dhs-org"
+  default = "example-com"
 }
 
 variable "aws_account" {

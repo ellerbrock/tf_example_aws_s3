@@ -1,4 +1,4 @@
-# tf_straycat__aws_s3
+# tf_example__aws_s3
 Creates S3 buckets to expected form.
 
 _NOTE: This module will prepend the domain name and account name to every bucket.  This is to prevent naming collisions.  Particularly useful since each environment gets its own account._
